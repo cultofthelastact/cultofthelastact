@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'PentagramsStregherria';
-  src: url('C:/users/matve/desktop/arg site/fonts/PentagramsStregherria.woff') format('woff'),
-  url('C:/users/matve/desktop/arg site/fonts/PentagramsStregherria.woff2') format('woff2');
+  src: url('../fonts/PentagramsStregherria.woff') format('woff'),
+  url('../fonts/PentagramsStregherria.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
